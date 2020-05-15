@@ -1,0 +1,15 @@
+python-telegram-bot
+requests
+urllib3
+certifi
+simplejson
+ijson
+keytree
+shapely
+numpy
+pandas
+gspread
+oauth2client
+pytz
+asyncio
+aiohttp
